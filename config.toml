@@ -1,0 +1,7 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Med Douzi'
+theme = 'PaperMod'
+
+
+menu = ''
